@@ -155,3 +155,5 @@ const studentss = {
     }
 };
 studentss.details();
+
+
